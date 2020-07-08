@@ -3,4 +3,4 @@ spring:
   application:  
     name: microservicecloud-config-atguigu-dev
 config:
-  info: dev2
+  info: dev3
